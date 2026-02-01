@@ -121,7 +121,7 @@
     "@untitaker/hyperlink": "^0.1.23",
     "babel-jest": "^26.3.0",
     "babel-preset-gatsby": "^0.5.8",
-    "eslint": "^7.8.1",
+    "eslint": "^9.26.0",
     "eslint-plugin-jest": "^23.20.0",
     "eslint-plugin-mdx": "^1.8.2",
     "eslint-plugin-react": "^7.20.6",
